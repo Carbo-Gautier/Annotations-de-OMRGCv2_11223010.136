@@ -19,12 +19,12 @@ Cette démarche a permis d’affiner l’annotation fonctionnelle d'une séquenc
 **CC BY-NC-ND 4.0** — partage autorisé, usage non commercial, pas de modifications, attribution obligatoire.
 
 
-#Annotathon Tara Oceans
+# Annotathon Tara Oceans
 
 Analysis and annotation of marine metagenomic sequences from the Tara Oceans expedition.
 The goal is to identify ORFs, classify sequences taxonomically (archaea, bacteria, protists, viruses), and propose functional annotations to detect new species and novel proteins.
 
-My contributions
+## My contributions
 
 As part of this project, I performed an in-depth analysis of sequence fragments using various bioinformatics tools:
 
