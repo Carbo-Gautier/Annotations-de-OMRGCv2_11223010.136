@@ -14,17 +14,21 @@ Dans le cadre de ce projet, j'ai effectué l'analyse approfondie de fragments de
 
 Cette démarche a permis d’affiner l’annotation fonctionnelle d'une séquences, d’identifier une protéine nouvelle proches de familles connues, et de contribuer à la compréhension de la biodiversité planctonique marine.
 
+
+# Travail Encadré de Recherche – Influence des introgressions néandertaliennes sur les pathologies modernes
+Dans ce Travail Encadré de Recherche (TER), j’ai réalisé une revue de l’état des connaissances scientifiques concernant l’impact des introgressions génétiques néandertaliennes sur la santé des populations humaines modernes. Ce travail a consisté à analyser et synthétiser des études publiées, mettant en lumière les régions génomiques héritées de Néandertal associées à certaines pathologies complexes et leur rôle potentiel dans l’évolution de la susceptibilité aux maladies actuelles.
+
 ## Licence
 
 **CC BY-NC-ND 4.0** — partage autorisé, usage non commercial, pas de modifications, attribution obligatoire.
 
 
-#Annotathon Tara Oceans
+# Annotathon Tara Oceans
 
 Analysis and annotation of marine metagenomic sequences from the Tara Oceans expedition.
 The goal is to identify ORFs, classify sequences taxonomically (archaea, bacteria, protists, viruses), and propose functional annotations to detect new species and novel proteins.
 
-My contributions
+## My contributions
 
 As part of this project, I performed an in-depth analysis of sequence fragments using various bioinformatics tools:
 
@@ -39,6 +43,10 @@ As part of this project, I performed an in-depth analysis of sequence fragments 
 -Repeated phylogenetic analyses with different study groups and outgroups to refine taxonomic assignment and investigate potential horizontal gene transfer.
 
 This approach helped refine the functional annotation of a sequence, identify a novel protein related to known families, and contribute to the understanding of planktonic marine biodiversity.
+
+# Scientific review Project – Influence of Neanderthal Introgressions on Modern Human Pathologies
+
+As part of this project, I conducted a literature review summarizing the current scientific understanding of the impact of Neanderthal genetic introgressions on the health of modern human populations. The work involved analyzing and synthesizing published studies, highlighting Neanderthal-derived genomic regions associated with complex pathologies, and discussing their potential role in shaping present-day disease susceptibility.
 
 ## License
 
