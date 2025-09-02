@@ -18,7 +18,7 @@ Cette démarche a permis d’affiner l’annotation fonctionnelle d'une séquenc
 
 **CC BY-NC-ND 4.0** — partage autorisé, usage non commercial, pas de modifications, attribution obligatoire.
 
-English
+
 #Annotathon Tara Oceans
 
 Analysis and annotation of marine metagenomic sequences from the Tara Oceans expedition.
